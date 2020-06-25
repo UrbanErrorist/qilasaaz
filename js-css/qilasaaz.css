@@ -1,0 +1,40 @@
+BODY {
+	FONT-SIZE: 70%; FONT-FAMILY: verdana, arial, helvetica; 
+}
+TD {
+	FONT-SIZE: 70%; COLOR: #333333; LINE-HEIGHT: 12pt; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans
+}
+
+A {
+	COLOR: #black
+}
+A:link {
+	COLOR: #black
+}
+A:hover {
+	COLOR: F5ECCF
+}
+#TopLinks {
+	COLOR: black; TEXT-DECORATION: none
+}
+#paging {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+#paging:link {
+	FONT-WEIGHT: bold; COLOR: #cc0000; TEXT-DECORATION: none
+}
+#paging:visited {
+	FONT-WEIGHT: bold; COLOR: #cc0000; TEXT-DECORATION: none
+}
+.current_link {
+	FONT-WEIGHT: bold; COLOR: red; LETTER-SPACING: normal
+}
+#current {
+	COLOR: #3e3f53; TEXT-DECORATION: none
+}
+#current_link {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; COLOR: green
+}
+#LeftLinks {
+	COLOR: navy
+}
